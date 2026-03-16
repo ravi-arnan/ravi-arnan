@@ -4,9 +4,9 @@ I'm Ravi — a fullstack developer who enjoys building web apps, AI-powered tool
 
 Check out my [portfolio](https://github.com/ravi-arnan).
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,python,react,tailwind,nextjs,mongodb,docker,figma)](https://github.com/tandpfun/skill-icons)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,css,nodejs,react,nextjs,vite,tailwind,mongodb,docker)](https://github.com/tandpfun/skill-icons)
 
-^ These icons are powered by Skill Icons.
+
 
 <details>
   <summary><strong>Github Stats ⚡</strong></summary>
