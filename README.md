@@ -4,9 +4,7 @@
   Fullstack Developer • AI Enthusiast • Problem Solver
 </p>
 
-<p align="center">
-  <img src="image/ascii-animation.gif" alt="ASCII Animation" width="600" />
-</p>
+
 
 ---
 
