@@ -2,7 +2,7 @@
 
 I'm Ravi — a fullstack developer who enjoys building web apps, AI-powered tools, and practical side projects.
 
-Check out my [portfolio](https://github.com/ravi-arnan).
+Check out my [portfolio](https://raviarnan.netlify.app).
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,css,nodejs,react,nextjs,vite,tailwind,mongodb,docker)](https://github.com/tandpfun/skill-icons)
 
