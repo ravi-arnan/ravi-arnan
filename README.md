@@ -1,40 +1,17 @@
-<h1 align="center">Hi there, I'm Ravi Arnan 👋</h1>
+# Hey There! 👋
 
-<p align="center">
-  Fullstack Developer • AI Enthusiast • Problem Solver
-</p>
+I'm Ravi — a fullstack developer who enjoys building web apps, AI-powered tools, and practical side projects.
 
+Check out my [portfolio](https://github.com/ravi-arnan).
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,python,react,tailwind,nextjs,mongodb,docker,figma)](https://github.com/tandpfun/skill-icons)
 
----
-
-## 🚀 About Me
-
-- 💻 Fokus di pengembangan web modern (frontend + backend)
-- 🤖 Tertarik pada AI agent, automasi, dan data-driven application
-- 📚 Suka eksplorasi teknologi baru dan membangun project end-to-end
-- 🎯 Goal: membangun produk yang clean, scalable, dan berdampak
-
-## 🛠️ Tech Stack
-
-### Languages & Core
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,html,css)](https://github.com/tandpfun/skill-icons)
-
-### Frameworks & Libraries
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite)](https://github.com/tandpfun/skill-icons)
-
-### Database & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,github,linux,vscode)](https://github.com/tandpfun/skill-icons)
-
-## 📊 GitHub Stats
+^ These icons are powered by Skill Icons.
 
 <details>
-  <summary><strong>📈 Klik untuk buka/tutup GitHub Stats</strong></summary>
+  <summary><strong>Github Stats ⚡</strong></summary>
   <br />
-  <p align="center">
+  <p>
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=ravi-arnan&show_icons=true&theme=tokyonight&hide_border=true" alt="Ravi's GitHub Stats" />
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-arnan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </p>
