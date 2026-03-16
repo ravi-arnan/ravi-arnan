@@ -31,10 +31,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ravi-arnan&show_icons=true&theme=tokyonight&hide_border=true" alt="Ravi's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-arnan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<details>
+  <summary><strong>📈 Klik untuk buka/tutup GitHub Stats</strong></summary>
+  <br />
+  <p align="center">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ravi-arnan&show_icons=true&theme=tokyonight&hide_border=true" alt="Ravi's GitHub Stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-arnan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </p>
+</details>
 
 ## 🤝 Connect
 
