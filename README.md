@@ -39,15 +39,3 @@
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-arnan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </p>
 </details>
-
-## 🤝 Connect
-
-- 🌐 Portfolio: tambahkan link portfolio kamu di sini
-- 💼 LinkedIn: tambahkan link LinkedIn kamu di sini
-- 📫 Email: tambahkan email profesional kamu di sini
-
----
-
-<p align="center">
-  Built with ❤️ and powered by <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a>
-</p>
