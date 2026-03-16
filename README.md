@@ -12,7 +12,7 @@ Check out my [portfolio](https://github.com/ravi-arnan).
   <summary><strong>Github Stats ⚡</strong></summary>
   <br />
   <p>
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ravi-arnan&show_icons=true&theme=tokyonight&hide_border=true" alt="Ravi's GitHub Stats" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-arnan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ravi-arnan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Ravi's GitHub Stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-arnan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
   </p>
 </details>
