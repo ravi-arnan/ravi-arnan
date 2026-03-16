@@ -4,7 +4,7 @@
 
 Check out my [portfolio](https://raviarnan.netlify.app).
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,css,nodejs,react,nextjs,vite,tailwind,mongodb,docker)](https://github.com/tandpfun/skill-icons)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,css,nodejs,react,nextjs,vite,tailwind,mongodb,docker,linux)](https://github.com/tandpfun/skill-icons)
 
 
 
