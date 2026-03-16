@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-I'm Ravi — a fullstack developer who enjoys building web apps, AI-powered tools, and practical side projects.
+I'm Ravi — a cybersecurity enthusiast focused on secure web development, threat analysis, and practical security research.
 
 Check out my [portfolio](https://raviarnan.netlify.app).
 
