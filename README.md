@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-I'm Ravi — a cybersecurity enthusiast focused on secure web development, threat analysis, and practical security research.
+**I'm Ravi** - a cybersecurity enthusiast focused on secure web development, threat analysis, and practical security research.
 
 Check out my [portfolio](https://raviarnan.netlify.app).
 
