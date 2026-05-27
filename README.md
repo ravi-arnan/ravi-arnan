@@ -39,13 +39,9 @@ Security Research        ->   labs, CTFs, write-ups, proof-of-concepts
 
 ### GitHub Stats
 
-<div align="center">
-
 <img width="480" src="./github-metrics.svg" alt="Ravi's GitHub metrics" />
 
 <img width="480" src="./github-metrics-calendar.svg" alt="Contribution calendar" />
-
-</div>
 
 ---
 
