@@ -41,3 +41,8 @@ jobs:
           config_animations: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          extras_css: |
+            [fill="#ebedf0"]{fill:#161b22}
+            h2,h3{color:#7aa2f7}
+            svg{color:#a9b1d6}
+            .field svg{fill:#7aa2f7}
