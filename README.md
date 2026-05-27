@@ -41,16 +41,9 @@ Security Research        ->   labs, CTFs, write-ups, proof-of-concepts
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravi-arnan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=bb9af7&title_color=7aa2f7" alt="Ravi's GitHub Stats" />
-<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ravi-arnan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7" alt="Top Languages" />
+<img width="480" src="./github-metrics.svg" alt="Ravi's GitHub metrics" />
 
-<br />
-
-<img height="170" src="https://streak-stats.demolab.com/?user=ravi-arnan&theme=tokyonight&hide_border=true&background=00000000&ring=bb9af7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi-arnan&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7aa2f7&line=bb9af7&point=ffffff&area=true" alt="Contribution Activity Graph" />
+<img width="480" src="./github-metrics-calendar.svg" alt="Contribution calendar" />
 
 </div>
 
