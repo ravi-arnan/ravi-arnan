@@ -1,0 +1,41 @@
+name: Metrics
+
+on:
+  # Regenerate every day at 00:00 WITA (16:00 UTC)
+  schedule:
+    - cron: "0 16 * * *"
+  # Allow running manually from the Actions tab
+  workflow_dispatch:
+
+# Scope write access to this workflow only (repo default stays read-only)
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Main card: header, activity, repos, and language breakdown (terminal theme)
+      - name: Generate metrics card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ravi-arnan
+          template: terminal
+          base: header, activity, repositories, metadata
+          config_timezone: Asia/Makassar
+          plugin_languages: yes
+          plugin_languages_limit: 8
+
+      # Contribution calendar (full year isometric graph)
+      - name: Generate contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-calendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ravi-arnan
+          base: ""
+          config_timezone: Asia/Makassar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
