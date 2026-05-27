@@ -1,16 +1,63 @@
-# Hey There! 👋
+<div align="center">
 
-**I'm Ravi** - a cybersecurity enthusiast focused on secure web development, threat analysis, and practical security research.
+<img src="./image/ascii-animation.gif" width="200" alt="ASCII animation" />
 
-Check out my [portfolio](https://raviarnan.netlify.app).
+# Ravi Arnan Irianto
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,css,nodejs,react,nextjs,vite,tailwind,mongodb,docker,linux)](https://github.com/tandpfun/skill-icons)
+**Cybersecurity enthusiast** focused on secure web development, threat analysis, and practical security research.
 
-<details>
-  <summary><strong>Github Stats ⚡</strong></summary>
-  <br />
-  <p>
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ravi-arnan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Ravi's GitHub Stats" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-arnan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-  </p>
-</details>
+Teknologi Informasi '23 at Universitas Udayana, Denpasar, Bali
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-raviarnan.netlify.app-7aa2f7?style=flat-square&logo=netlify&logoColor=white&labelColor=1a1b27)](https://raviarnan.netlify.app)
+[![Instagram](https://img.shields.io/badge/Instagram-ravi__arnan-bb9af7?style=flat-square&logo=instagram&logoColor=white&labelColor=1a1b27)](https://instagram.com/ravi_arnan)
+[![Profile Views](https://komarev.com/ghpvc/?username=ravi-arnan&style=flat-square&color=7aa2f7&label=Profile+views)](https://github.com/ravi-arnan)
+
+</div>
+
+---
+
+### About
+
+- Building things on the web and breaking them on purpose to learn how to keep them safe.
+- Interested in web application security, threat analysis, and secure-by-default development.
+- Comfortable across the stack: from React and Next.js front ends to Node.js APIs, Docker, and Linux.
+- Always experimenting with new tools and writing about what I find.
+
+### Focus Areas
+
+```text
+Secure Web Development   ->   auth, input validation, hardening, OWASP Top 10
+Threat Analysis          ->   reconnaissance, log review, attack-surface mapping
+Security Research        ->   labs, CTFs, write-ups, proof-of-concepts
+```
+
+### Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,css,nodejs,react,nextjs,vite,tailwind,mongodb,docker,linux&theme=dark)](https://github.com/tandpfun/skill-icons)
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravi-arnan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=bb9af7&title_color=7aa2f7" alt="Ravi's GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-arnan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7" alt="Top Languages" />
+
+<br />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-arnan&theme=tokyonight&hide_border=true&background=00000000&ring=bb9af7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ravi-arnan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Secure by default. Curious by nature.</sub>
+
+</div>
