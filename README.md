@@ -43,6 +43,11 @@ Security Research        ->   labs, CTFs, write-ups, proof-of-concepts
 
 ### GitHub Stats
 
+<details>
+<summary>View stats, top languages, streak, and activity</summary>
+
+<br />
+
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravi-arnan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=bb9af7&title_color=7aa2f7&text_color=a9b1d6" alt="GitHub stats" />
@@ -53,6 +58,8 @@ Security Research        ->   labs, CTFs, write-ups, proof-of-concepts
 <img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=ravi-arnan&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7aa2f7&line=bb9af7&point=ffffff&area=true&area_color=bb9af7" alt="Contribution activity graph" />
 
 </div>
+
+</details>
 
 ---
 
