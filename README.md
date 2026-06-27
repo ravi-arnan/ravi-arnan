@@ -10,9 +10,10 @@ Teknologi Informasi '23 at Universitas Udayana, Denpasar, Bali
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-raviarnan.netlify.app-7aa2f7?style=flat-square&logo=netlify&logoColor=white&labelColor=1a1b27)](https://raviarnan.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-raviarnan.dev-7aa2f7?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1a1b27)](https://raviarnan.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravi%20Arnan-7aa2f7?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://www.linkedin.com/in/raviarnan)
 [![Instagram](https://img.shields.io/badge/Instagram-ravi__arnan-bb9af7?style=flat-square&logo=instagram&logoColor=white&labelColor=1a1b27)](https://instagram.com/ravi_arnan)
+[![Email](https://img.shields.io/badge/Email-ravi@raviarnan.dev-bb9af7?style=flat-square&logo=maildotru&logoColor=white&labelColor=1a1b27)](mailto:ravi@raviarnan.dev)
 [![Profile Views](https://komarev.com/ghpvc/?username=ravi-arnan&style=flat-square&color=7aa2f7&label=Profile+views)](https://github.com/ravi-arnan)
 
 </div>
