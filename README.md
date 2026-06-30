@@ -52,12 +52,12 @@ Security Research        ->   labs, CTFs, write-ups, proof-of-concepts
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravi-arnan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=bb9af7&title_color=7aa2f7&text_color=a9b1d6" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ravi-arnan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7&text_color=a9b1d6" alt="Top languages" />
+<img height="165" src="https://readme-stats-brown-six.vercel.app/api?username=ravi-arnan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=bb9af7&title_color=7aa2f7&text_color=a9b1d6" alt="GitHub stats" />
+<img height="165" src="https://readme-stats-brown-six.vercel.app/api/top-langs/?username=ravi-arnan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7&text_color=a9b1d6" alt="Top languages" />
 
-<img height="165" src="https://streak-stats.demolab.com/?user=ravi-arnan&theme=tokyonight&hide_border=true&background=00000000&ring=bb9af7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub streak" />
+<img height="165" src="https://readme-streak-phi.vercel.app/?user=ravi-arnan&theme=tokyonight&hide_border=true&background=00000000&ring=bb9af7&fire=7aa2f7&currStreakLabel=7aa2f7" alt="GitHub streak" />
 
-<img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=ravi-arnan&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7aa2f7&line=bb9af7&point=ffffff&area=true&area_color=bb9af7" alt="Contribution activity graph" />
+<img width="820" src="https://readme-activity-mauve.vercel.app/graph?username=ravi-arnan&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7aa2f7&line=bb9af7&point=ffffff&area=true&area_color=bb9af7" alt="Contribution activity graph" />
 
 </div>
 
