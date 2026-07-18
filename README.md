@@ -4,9 +4,8 @@
 
 # Ravi Arnan Irianto
 
-**Cybersecurity enthusiast** focused on secure web development, threat analysis, and practical security research.
-
-Teknologi Informasi '23 at Universitas Udayana, Denpasar, Bali
+**Cybersecurity Enthusiast** • Focused on Secure Web Dev, Threat Analysis & Security Research
+*Teknologi Informasi '23 @ Universitas Udayana, Bali*
 
 <br />
 
@@ -20,34 +19,64 @@ Teknologi Informasi '23 at Universitas Udayana, Denpasar, Bali
 
 ---
 
-### About
+### 🛡️ About Me
 
-- Building things on the web and breaking them on purpose to learn how to keep them safe.
-- Interested in web application security, threat analysis, and secure-by-default development.
-- Comfortable across the stack: from React and Next.js front ends to Node.js APIs, Docker, and Linux.
-- Always experimenting with new tools and writing about what I find.
+- 💻 **Building & Breaking:** Membangun aplikasi web dan secara sengaja mengeksploitasinya di lab lokal untuk memahami mitigasi keamanannya.
+- 🐧 **OS Workstation:** Menggunakan **Zorin OS** sebagai sistem operasi utama sehari-hari untuk kebutuhan *development* dan eksperimen keamanan.
+- 🔍 **Core Interests:** Berfokus pada keamanan aplikasi web (Web AppSec), analisis ancaman (threat analysis), serta pengembangan sistem yang *secure-by-default*.
+- 🛠️ **Full-Stack Capable:** Terbiasa bekerja dengan React/Next.js di frontend, Node.js di backend, Docker untuk kontainerisasi, dan manajemen server Linux.
+- ✍️ **Continuous Learning:** Aktif menulis jurnal eksperimen/write-ups dan mencoba modul-modul lab baru.
 
-### Focus Areas
+---
 
-```text
-Secure Web Development   ->   auth, input validation, hardening, OWASP Top 10
-Threat Analysis          ->   reconnaissance, log review, attack-surface mapping
-Security Research        ->   labs, CTFs, write-ups, proof-of-concepts
+### 🖥️ Focus Areas
+
+```bash
+$ cat focus_areas.json
+{
+  "secure_web_dev":   ["Authentication", "Input Validation", "Hardening", "OWASP Top 10"],
+  "threat_analysis":  ["Reconnaissance", "Log Review", "Attack-Surface Mapping"],
+  "security_research": ["Labs Setup", "CTFs", "Write-ups", "Proof of Concepts"]
+}
 ```
 
-### Tech Stack
+---
 
+### 🛠️ Tech Stack & OS Environment
+
+#### Development & Infrastructure
+<div align="center">
+  <a href="https://github.com/tandpfun/skill-icons">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,nodejs,react,nextjs,vite,tailwind,mongodb,docker,linux&theme=dark" alt="My Skills" />
+  </a>
+</div>
+
+#### OS & Security Tools
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,html,css,nodejs,react,nextjs,vite,tailwind,mongodb,docker,linux&theme=dark)](https://github.com/tandpfun/skill-icons)
+![Zorin OS](https://img.shields.io/badge/Zorin_OS-0A7DFF?style=flat-square&logo=zorinos&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-00aae7?style=flat-square&logo=wazuh&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557c94?style=flat-square&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-3772FF?style=flat-square&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167EBA?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4f8f00?style=flat-square&logo=nmap&logoColor=white)
+![PortSwigger](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
 
 </div>
 
-### GitHub Stats
+---
+
+### 🏆 Security Profiles & Stats
+<div align="center">
+
+<!-- Masukkan ID HackTheBox / TryHackMe Anda jika ada untuk menampilkan badge dinamis -->
+<!-- [![HackTheBox](https://img.shields.io/badge/HackTheBox-Member-9fef00?style=flat-square&logo=hackthebox&logoColor=white)](https://www.hackthebox.eu/profile/YOUR_HTB_ID) -->
+<!-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-Member-f32a26?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_THM_USERNAME) -->
+
+</div>
 
 <details>
-<summary>View stats, top languages, streak, and activity</summary>
-
+<summary>📊 View GitHub stats, top languages, streak, and activity</summary>
 <br />
 
 <div align="center">
