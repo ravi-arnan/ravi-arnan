@@ -21,11 +21,11 @@
 
 ### 🛡️ About Me
 
-- 💻 **Building & Breaking:** Membangun aplikasi web dan secara sengaja mengeksploitasinya di lab lokal untuk memahami mitigasi keamanannya.
-- 🐧 **OS Workstation:** Menggunakan **Zorin OS** sebagai sistem operasi utama sehari-hari untuk kebutuhan *development* dan eksperimen keamanan.
-- 🔍 **Core Interests:** Berfokus pada keamanan aplikasi web (Web AppSec), analisis ancaman (threat analysis), serta pengembangan sistem yang *secure-by-default*.
-- 🛠️ **Full-Stack Capable:** Terbiasa bekerja dengan React/Next.js di frontend, Node.js di backend, Docker untuk kontainerisasi, dan manajemen server Linux.
-- ✍️ **Continuous Learning:** Aktif menulis jurnal eksperimen/write-ups dan mencoba modul-modul lab baru.
+- 💻 **Building & Breaking:** Building web applications and intentionally breaking them in local labs to understand their security mitigations.
+- 🐧 **OS Workstation:** Daily driving and hardening Zorin OS as my primary operating system for development and security experiments.
+- 🔍 **Core Interests:** Deeply focused on Web Application Security (Web AppSec), threat analysis, and secure-by-default software development.
+- 🛠️ **Full-Stack Capable:** Comfortable across the stack—from React and Next.js frontends to Node.js APIs, Docker containerization, and Linux server administration.
+- ✍️ **Continuous Learning:** Always experimenting with new tools, building hands-on labs, and writing CTF write-ups.
 
 ---
 
