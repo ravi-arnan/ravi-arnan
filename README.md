@@ -92,7 +92,7 @@ $ cat focus_areas.json
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img width="800" alt="GitHub streak" src="https://readme-streak-phi.vercel.app/?user=ravi-arnan&theme=tokyonight&hide_border=true&background=00000000&ring=bb9af7&fire=7aa2f7&currStreakLabel=7aa2f7&card_width=800" />
+      <img width="800" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=ravi-arnan&theme=tokyonight&hide_border=true&background=00000000&ring=bb9af7&fire=7aa2f7&currStreakLabel=7aa2f7&card_width=800" />
     </td>
   </tr>
   <tr>
