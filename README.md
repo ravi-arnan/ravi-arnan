@@ -19,17 +19,17 @@
 
 ---
 
-### 🛡️ About Me
+### About Me
 
-- 💻 **Building & Breaking:** Building web applications and intentionally breaking them in local labs to understand their security mitigations.
-- 🐧 **OS Workstation:** Daily driving and hardening Zorin OS as my primary operating system for development and security experiments.
-- 🔍 **Core Interests:** Deeply focused on Web Application Security (Web AppSec), threat analysis, and secure-by-default software development.
-- 🛠️ **Full-Stack Capable:** Comfortable across the stack—from React and Next.js frontends to Node.js APIs, Docker containerization, and Linux server administration.
-- ✍️ **Continuous Learning:** Always experimenting with new tools, building hands-on labs, and writing CTF write-ups.
+- **Building & Breaking:** Building web applications and intentionally breaking them in local labs to understand their security mitigations.
+- **OS Workstation:** Daily driving and hardening Zorin OS as my primary operating system for development and security experiments.
+- **Core Interests:** Deeply focused on Web Application Security (Web AppSec), threat analysis, and secure-by-default software development.
+- **Full-Stack Capable:** Comfortable across the stack—from React and Next.js frontends to Node.js APIs, Docker containerization, and Linux server administration.
+- **Continuous Learning:** Always experimenting with new tools, building hands-on labs, and writing CTF write-ups.
 
 ---
 
-### 🖥️ Focus Areas
+### Focus Areas
 
 ```bash
 $ cat focus_areas.json
@@ -42,7 +42,7 @@ $ cat focus_areas.json
 
 ---
 
-### 🛠️ Tech Stack & OS Environment
+### Tech Stack & OS Environment
 
 #### Development & Infrastructure
 <div align="center">
@@ -66,7 +66,7 @@ $ cat focus_areas.json
 
 ---
 
-### 🏆 Security Profiles & Stats
+### Security Profiles & Stats
 <div align="center">
 
 <!-- Masukkan ID HackTheBox / TryHackMe Anda jika ada untuk menampilkan badge dinamis -->
@@ -76,7 +76,7 @@ $ cat focus_areas.json
 </div>
 
 <details>
-<summary>📊 View GitHub stats, top languages, streak, and activity</summary>
+<summary>View GitHub stats, top languages, streak, and activity</summary>
 <br />
 
 <div align="center">
@@ -92,7 +92,7 @@ $ cat focus_areas.json
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img width="800" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=ravi-arnan&theme=tokyonight&hide_border=true&background=00000000&ring=bb9af7&fire=7aa2f7&currStreakLabel=7aa2f7&card_width=800" />
+      <img width="800" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=ravi-arnan&theme=tokyonight&hide_border=true&background=00000000&ring=bb9af7&fire=7aa2f7&currStreakLabel=7aa2f7&card_width=800&v=2" />
     </td>
   </tr>
   <tr>
