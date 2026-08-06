@@ -22,7 +22,7 @@
 
 ### About Me
 
-- **Open source, upstream:** I send patches to projects I actually use — a `systemd_version` metric merged into [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter), a core query-handling fix in [shish/shimmie2](https://github.com/shish/shimmie2), plus merged work on [floci](https://github.com/floci-io/floci), [get-md](https://github.com/Nano-Collective/get-md), and [fluxcast](https://github.com/IlyaP358/fluxcast). A good share of my PRs are security hardening: tightening CSP and CORS, enforcing RBAC, adding login lockout, and remediating OWASP ZAP and Semgrep findings.
+- **Open source, upstream:** I send patches to projects I actually use, with merged work across observability exporters, developer tooling, and self-hosted web apps. A good share of my PRs are security hardening: tightening CSP and CORS, enforcing RBAC, adding login lockout, and remediating OWASP ZAP and Semgrep findings.
 - **Security automation:** My thesis project is an open-source SOAR pipeline — Wazuh as the SIEM, n8n for orchestration, and a local Ollama model for triage, with analyst approval over Telegram before any active response fires.
 - **Linux, on real hardware:** I turned an old laptop into a bare-metal Rocky Linux 9 server and run it as a live sysadmin lab against the RHCSA EX200 domains — LVM, firewalld, SELinux, SSH hardening, rootless Podman.
 - **IT audit coursework:** Assessed bWAPP end to end and mapped the findings to OWASP Top 10 2021, with a written audit report as the deliverable.
