@@ -4,7 +4,7 @@
 
 # Ravi Arnan Irianto
 
-**Cybersecurity Enthusiast** • Focused on Secure Web Dev, Threat Analysis & Security Research
+**Security Automation • Linux Infrastructure • Web & Data**
 *Teknologi Informasi '23 @ Universitas Udayana, Bali*
 
 <br />
@@ -21,11 +21,12 @@
 
 ### About Me
 
-- **Building & Breaking:** Building web applications and intentionally breaking them in local labs to understand their security mitigations.
-- **OS Workstation:** Daily driving and hardening Zorin OS as my primary operating system for development and security experiments.
-- **Core Interests:** Deeply focused on Web Application Security (Web AppSec), threat analysis, and secure-by-default software development.
-- **Full-Stack Capable:** Comfortable across the stack—from React and Next.js frontends to Node.js APIs, Docker containerization, and Linux server administration.
-- **Continuous Learning:** Always experimenting with new tools, building hands-on labs, and writing CTF write-ups.
+- **Security automation:** My thesis project is an open-source SOAR pipeline — Wazuh as the SIEM, n8n for orchestration, and a local Ollama model for triage, with analyst approval over Telegram before any active response fires.
+- **Linux, on real hardware:** I turned an old laptop into a bare-metal Rocky Linux 9 server and run it as a live sysadmin lab against the RHCSA EX200 domains — LVM, firewalld, SELinux, SSH hardening, rootless Podman.
+- **IT audit coursework:** Assessed bWAPP end to end and mapped the findings to OWASP Top 10 2021, with a written audit report as the deliverable.
+- **Web & 3D:** Building interfaces with React, Astro, SvelteKit, and Three.js — from scroll-driven WebGL microsites to small tools people actually use.
+- **Data & ML:** Most of my notebooks live here — information retrieval (TF-IDF vs VSM), a RAG system over Indonesian legal and tax PDFs, and sentiment analysis coursework.
+- **Daily driver:** Zorin OS, with Tailscale tying my machines and lab servers together.
 
 ---
 
@@ -34,46 +35,54 @@
 ```bash
 $ cat focus_areas.json
 {
-  "secure_web_dev":   ["Authentication", "Input Validation", "Hardening", "OWASP Top 10"],
-  "threat_analysis":  ["Reconnaissance", "Log Review", "Attack-Surface Mapping"],
-  "security_research": ["Labs Setup", "CTFs", "Write-ups", "Proof of Concepts"]
+  "security_operations": ["SOAR Pipelines", "Wazuh SIEM", "Threat Intel Enrichment", "Active Response"],
+  "linux_infra":         ["Rocky Linux", "LVM", "SELinux", "firewalld", "Podman", "Tailscale"],
+  "it_audit":            ["OWASP Top 10 2021", "Web App Assessment", "Audit Reporting"],
+  "web_and_data":        ["React", "Astro", "SvelteKit", "Three.js", "Jupyter", "RAG"]
 }
 ```
 
 ---
 
-### Tech Stack & OS Environment
+### Selected Work
 
-#### Development & Infrastructure
+| Project | What it is |
+| :-- | :-- |
+| [**soar-project**](https://github.com/ravi-arnan/soar-project) | Open-source SOAR for malware and phishing: Wazuh 4.9.2 + n8n + local Ollama, multi-source threat intel (VirusTotal, Safe Browsing, URLScan), confidence-tiered response with human-in-the-loop approval. Thesis project. |
+| [**linux-enterprise-lab**](https://github.com/ravi-arnan/linux-enterprise-lab) | Bare-metal Rocky Linux 9 lab mapped to the RHCSA EX200 domains, documented task by task. |
+| [**it-audit-bwapp**](https://github.com/ravi-arnan/it-audit-bwapp) | Web application penetration test of bWAPP mapped to OWASP Top 10 2021, delivered as an IT audit report. |
+| [**apex-stradale**](https://github.com/ravi-arnan/apex-stradale) | Scroll-driven WebGL concept car microsite, built with Three.js and Vite. |
+| [**stki-rag**](https://github.com/ravi-arnan/stki-rag) | Retrieval-augmented QA over Indonesian legal and tax documents. |
+| [**myheic**](https://github.com/ravi-arnan/myheic) | Free, offline HEIC to JPG converter for Windows. |
+
+---
+
+### Tech Stack
+
+#### Languages & Frameworks
 <div align="center">
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,nodejs,react,nextjs,vite,tailwind,mongodb,docker,linux&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,astro,svelte,threejs,vite,tailwind,nodejs,docker,linux&theme=dark" alt="My Skills" />
   </a>
 </div>
 
-#### OS & Security Tools
+#### Security & Infrastructure
 <div align="center">
 
 ![Zorin OS](https://img.shields.io/badge/Zorin_OS-0A7DFF?style=flat-square&logo=zorinos&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-00aae7?style=flat-square&logo=wazuh&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557c94?style=flat-square&logo=kalilinux&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-1a1b27?style=flat-square&logo=ollama&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-3772FF?style=flat-square&logo=owasp&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-167EBA?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4f8f00?style=flat-square&logo=nmap&logoColor=white)
-![PortSwigger](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
 </div>
 
 ---
 
-### Security Profiles & Stats
-<div align="center">
-
-<!-- Masukkan ID HackTheBox / TryHackMe Anda jika ada untuk menampilkan badge dinamis -->
-<!-- [![HackTheBox](https://img.shields.io/badge/HackTheBox-Member-9fef00?style=flat-square&logo=hackthebox&logoColor=white)](https://www.hackthebox.eu/profile/YOUR_HTB_ID) -->
-<!-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-Member-f32a26?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_THM_USERNAME) -->
-
-</div>
+### GitHub Stats
 
 <details>
 <summary>View GitHub stats, top languages, streak, and activity</summary>
