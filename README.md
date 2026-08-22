@@ -28,7 +28,7 @@
 - **IT audit coursework:** Assessed bWAPP end to end and mapped the findings to OWASP Top 10 2021, with a written audit report as the deliverable.
 - **Web & 3D:** Building interfaces with React, Astro, SvelteKit, and Three.js — from scroll-driven WebGL microsites to small tools people actually use.
 - **Data & ML:** Most of my notebooks live here — information retrieval (TF-IDF vs VSM), a RAG system over Indonesian legal and tax PDFs, and sentiment analysis coursework.
-- **Daily driver:** Zorin OS, with Tailscale tying my machines and lab servers together.
+- **Daily driver:** NixOS, with Tailscale tying my machines and lab servers together.
 
 ---
 
@@ -71,7 +71,7 @@ $ cat focus_areas.json
 #### Security & Infrastructure
 <div align="center">
 
-![Zorin OS](https://img.shields.io/badge/Zorin_OS-0A7DFF?style=flat-square&logo=zorinos&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-00aae7?style=flat-square&logo=wazuh&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
